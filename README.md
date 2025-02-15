@@ -49,11 +49,6 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 
 ---
 
-## 🎓 Education
-🎓 **B.Tech in Computer Science (AI Specialization)** - *Parul University (2026)*
-
----
-
 ## 💼 Experience
 
 ### **Industrial Program in Data Science**  
@@ -67,8 +62,6 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 - **Chance Of Admission Prediction**: Predicted university admission chances based on academic performance.
 
 ---
-
-## 🔥 Featured Projects
 
 ## 🔥 Featured Projects
 
@@ -87,8 +80,8 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JiteshKumar9&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshKumar9&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=600" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=800" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=800" alt="Top Languages"/>
 </p>
 
 ---
