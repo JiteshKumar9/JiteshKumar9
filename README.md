@@ -18,6 +18,7 @@
   <a href="https://github.com/JiteshKumar9"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
   <a href="https://linkedin.com/in/JiteshKumar99"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:jiteshkumar99879@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=internet-explorer"/></a>
 </p>
 
 ---
@@ -49,17 +50,28 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 
 ---
 
+## 🎓 Education
+🎓 **B.Tech in Computer Science (AI Specialization)** - *Parul University (2026)*
+- Coursework includes Machine Learning, Artificial Intelligence, Data Structures, and Blockchain.
+- Engaged in various academic projects focusing on AI and data science.
+
+---
+
 ## 💼 Experience
 
 ### **Industrial Program in Data Science**  
 📌 **Personifwy** | *Feb 2023 – Mar 2023*
-- **Hate Speech Detection**: Developed an NLP model using Python, Scikit-learn, and NLTK.
-- **Spam SMS Classification**: Implemented TF-IDF and Naive Bayes models.
+- **Hate Speech Detection**: Developed an NLP model using Python, Scikit-learn, and NLTK to classify social media comments.
+- **Spam SMS Classification**: Implemented TF-IDF and Naive Bayes models to filter spam messages effectively.
+- **Key Skills**: NLP, Machine Learning, Python, Scikit-learn, Data Preprocessing.
+- **Technologies Used**: Python, NLTK, Scikit-learn, Pandas, Jupyter Notebook.
 
 ### **Data Science & ML Internship**  
 📌 **YBI Foundation** | *Completed on Feb 13, 2024*
-- **Cancer Prediction**: Built a predictive model using Logistic Regression and Random Forest.
-- **Chance Of Admission Prediction**: Predicted university admission chances based on academic performance.
+- **Cancer Prediction**: Built a predictive model using Logistic Regression and Random Forest to classify cancer as benign or malignant.
+- **Chance Of Admission Prediction**: Predicted university admission chances based on students' academic records.
+- **Key Skills**: Data Analysis, Machine Learning, Regression Models, Feature Engineering.
+- **Technologies Used**: Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 
 ---
 
@@ -73,22 +85,21 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 | **Financial Market Sentiment Analysis** | Python, NLTK, Logistic Regression | Analyzes financial news sentiment to predict market trends. |
 | **Chance of Admission Prediction** | Python, Pandas, Linear Regression, Random Forest Regressor | Estimates admission chances based on academic performance. |
 
-
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JiteshKumar9&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshKumar9&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=950" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=850" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=400" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
 </p>
 
 ---
 
 ## 🚀 3D Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JiteshKumar9/JiteshKumar9/output/github-contribution-grid-snake.svg" alt="Snake Animation"/>
+  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg"/>
 </p>
 
 ---
