@@ -4,7 +4,7 @@
 <h1 align="center">Hi there, I'm Jitesh Kumar 👋</h1>
 
 <p align="center">
-  🚀 <strong>Data Scientist | ML & AI Engineer | Python Developer</strong>
+  🚀 <strong>Data Scientist | ML & AI Engineer | Data Analytics</strong>
 </p>
 
 <p align="center">
