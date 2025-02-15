@@ -70,13 +70,16 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 
 ## 🔥 Featured Projects
 
-| Project | Technologies |
-|---------|-------------|
-| **Hate Speech Detection** | Python, Scikit-learn, NLTK, Logistic Regression, SVM |
-| **Spam SMS Classification** | Python, Scikit-learn, Pandas, Naive Bayes, Random Forest |
-| **Cancer Prediction** | Python, Scikit-learn, Logistic Regression, Random Forest |
-| **Financial Market Sentiment Analysis** | Python, NLTK, Logistic Regression |
-| **Chance of Admission Prediction** | Python, Pandas, Linear Regression, Random Forest Regressor |
+## 🔥 Featured Projects
+
+| Project | Technologies | Description |
+|---------|-------------|-------------|
+| **Hate Speech Detection** | Python, Scikit-learn, NLTK, Logistic Regression, SVM | NLP model to detect hate speech in text data. |
+| **Spam SMS Classification** | Python, Scikit-learn, Pandas, Naive Bayes, Random Forest | Classifies SMS messages as spam or ham. |
+| **Cancer Prediction** | Python, Scikit-learn, Logistic Regression, Random Forest | Predicts cancer diagnosis based on medical data. |
+| **Financial Market Sentiment Analysis** | Python, NLTK, Logistic Regression | Analyzes financial news sentiment to predict market trends. |
+| **Chance of Admission Prediction** | Python, Pandas, Linear Regression, Random Forest Regressor | Estimates admission chances based on academic performance. |
+
 
 ---
 
@@ -84,8 +87,8 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JiteshKumar9&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshKumar9&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=400" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=600" alt="Profile Summary"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=600" alt="Top Languages"/>
 </p>
 
 ---
