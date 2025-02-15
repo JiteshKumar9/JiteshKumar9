@@ -97,13 +97,6 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 
 ---
 
-## 🚀 3D Contribution Graph
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-season-animate.svg"/>
-</p>
-
----
-
 ## 🏆 Certifications
 - 🏅 **Data Science and Machine Learning** – YBI Foundation – March 14, 2024
 - 🏅 **Python for Machine Learning** – Great Learning – May 6, 2023
