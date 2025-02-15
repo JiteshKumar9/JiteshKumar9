@@ -81,7 +81,7 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
   <img src="https://github-readme-stats.vercel.app/api?username=JiteshKumar9&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JiteshKumar9&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Streak"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JiteshKumar9&theme=tokyonight&card_width=850" alt="Profile Summary"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=8500" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JiteshKumar9&layout=compact&theme=tokyonight&hide_border=true&card_width=850" alt="Top Languages"/>
 </p>
 
 ---
