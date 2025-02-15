@@ -83,12 +83,6 @@ I am a passionate **Data Scientist** and **AI enthusiast** with hands-on experie
 ✅ OpenCV (For Image Processing) 
 </p>
 
-- **Programming Languages**: Python
-- **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering
-- **Databases**: MySQL
-- **Web Development**: HTML, CSS
-- **Tools**: Jupyter Notebooks, Google Colab, GitHub, VS Code
-
 ---
 
 ## 🎓 Education
